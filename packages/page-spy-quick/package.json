@@ -1,7 +1,7 @@
 {
-  "name": "@huolala-tech/page-spy-quick",
-  "version": "2.1.0",
-  "description": "A developer tool for debugging quick program",
+  "name": "page-spy-quick",
+  "version": "2.1.1",
+  "description": "A developer tool for debugging quick program(快应用) forked from HuolalaTech/page-spy ",
   "license": "MIT",
   "main": "dist/esm/index.min.js",
   "types": "dist/types/index.d.ts",
@@ -11,7 +11,7 @@
   "homepage": "https://www.pagespy.org/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HuolalaTech/page-spy"
+    "url": "https://github.com/fanchenggang/page-spy"
   },
   "keywords": [
     "pagespy",
